@@ -1,0 +1,84 @@
+[[include :scp-jp:credit:start |mode=no-rate]]
+**タイトル:** 作者検索
+**著者:** SCP財団
+**作成年:** 2023
+----
+本ページはSCPコミュニティのために作成され，SCP財団に帰属します．本ページの管理は[[[meet-the-staff-jp|サイトスタッフ]]]に委任されています．
+[[include :scp-jp:credit:cc4]]
+[[include :scp-jp:credit:end]]
+
+> お知らせ: [https://scp-jp.wikidot.com/forum/t-16926432/cc ライセンス表記において、作成年の記載が不要となりました。]
+
+[[iframe https://r74tech.github.io/authorssearch/?frame=authorssearch class="html-block-iframe" width="100%" frameborder="0" scrolling="no"]]
+
++* 確認
+検索対象記事に「ライセンス: CC BY-SA 4.0」という表記が為された場合，その記事は[*https://creativecommons.org/licenses/by-sa/4.0/deed.ja CC BY-SA 4.0ライセンス]の下で提供されます．これに加えて，記事の作成者，著者，翻訳者，または編集者が著作権を有するコンテンツは，別段の定めがない限り[*https://creativecommons.org/licenses/by-sa/3.0/deed.ja CC BY-SA 3.0ライセンス]が付与されており，同ライセンスの下で利用することができます．
+
+「コンテンツ」とは，文章，画像，音声，音楽，動画，ソフトウェア，コードその他の情報のことをいいます．
+
+記事のディスカッションにアクセスしたうえで判断するようにしてください．
+
++ 説明
+入力したページの作者名をCrom APIのデータに基づき検索します．
+
+翻訳記事に関しては原語版記事の情報を併記します．
+
+SCP-JPの共著・改稿記事は，[[[attribution-metadata-jp|]]]の登録内容に基づいて表記します．
+
++ 使い方
+入力欄に作者名を調べたいページのURLを改行区切りで入力し，"検索"ボタンを押してください．Ctrl/⌘+Enterでも検索を始められます．一度に検索できるのは50件までです．
+URL以外にもPath({{@@https://scp-jp.wikidot.com/@@}}以下の部分)にも対応しています．
+
+各結果の"コピー"ボタンでライセンス表記をコピーできます．
+
++ その他
+わからない事やバグと思われる動作の報告はこのページのディスカッションにお願いします．バグ報告の場合は検索したページ（検索した語句をそのままコピペするのが望ましい）を記述していただけると幸いです．
+
+ソースコード: [https://github.com/r74tech/authorssearch r74tech/authorssearch]
+
+++* Change Log
+[[div class="code"]]
+Created by R74 2023
+MIT License: @@https://r74tech.com/license.txt@@
+
+[4.0.0] - YYYY-MM-DD
+- Rebuilt with React and Vite, and moved to GitHub Pages.
+- Search all inputs in parallel.
+- Use attribution metadata from data.scp-jp.com for SCP-JP pages.
+- Added copy buttons. Removed the share URL feature.
+
+[3.1.0] - 2025-01-25
+- Revised the logic for obtaining the original language version.
+- Reverted the display method of search results to the version prior to 2.1.0.
+
+[3.0.1] - 2025-01-22
+- Fixed the logic for obtaining the original language version.
+
+[3.0.0] - 2025-01-21
+- When displaying the original language version using URLs from branches other than JP, display only the author information.
+- When translating from one branch to another, accurately display the translator and original language version author in the original language version.
+
+[2.1.0] - 2024-09-12
+- Added ability to toggle display of creation year for both original and translated articles.
+
+[2.0.0] - 2023-07-09
+- Added URL sharing feature
+
+[1.2.1] - 2023-07-08
+- Added logic for deleting original articles.
+- Refactoring performed
+
+[1.2.0] - 2023-07-08
+- Added handling of deletion of original articles.
+
+[1.1.1] - 2023-07-08
+- Fixed RU branch URL to be current domain
+
+[1.1.0] - 2023-07-08
+- Added ability to hide original version information.
+- Fixed URL warnings and content of adult articles
+- Fixed display of non-original pages
+
+[1.0.0] - 2023-07-07
+- Initial release
+[[/div]]
