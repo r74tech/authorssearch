@@ -1,0 +1,70 @@
+{
+  "input": "scp-j-j",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-j-j": {
+      "url": "http://scp-jp.wikidot.com/scp-j-j",
+      "wikidotInfo": null,
+      "alternateTitles": [],
+      "attributions": [],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [
+        {
+          "url": "http://scp-wiki-cn.wikidot.com/scp-j-j",
+          "wikidotInfo": {
+            "title": "SCP-J-J",
+            "createdAt": "2026-09-30T15:42:12.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "请点击我！"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Yiwuyi11"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        }
+      ],
+      "translationOf": null
+    },
+    "http://scp-jp.wikidot.com/old:scp-j-j": {
+      "url": "http://scp-jp.wikidot.com/old:scp-j-j",
+      "wikidotInfo": {
+        "title": "SCP-J-J（記録用:Please click me! / お願いだから押して！）",
+        "createdAt": "2026-10-03T13:57:38.000Z",
+        "source": "[[include :scp-jp:credit:start]]\n[[include :scp-jp:credit:end]]",
+        "tags": [
+          "en",
+          "safe",
+          "scp",
+          "コメディ",
+          "ジョーク",
+          "メタフィクション",
+          "人工",
+          "元記事削除"
+        ]
+      },
+      "alternateTitles": [],
+      "attributions": [
+        {
+          "user": {
+            "name": "Kevin Nguyen_JP"
+          },
+          "type": "SUBMITTER"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    }
+  },
+  "attributions": {}
+}

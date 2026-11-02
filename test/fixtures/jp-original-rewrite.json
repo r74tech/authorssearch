@@ -1,0 +1,57 @@
+{
+  "input": "scp-287-jp",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-287-jp": {
+      "url": "http://scp-jp.wikidot.com/scp-287-jp",
+      "wikidotInfo": {
+        "title": "SCP-287-JP",
+        "createdAt": "2014-08-19T03:30:43.000Z",
+        "source": "",
+        "tags": [
+          "jp",
+          "safe",
+          "scp",
+          "改稿",
+          "蘇生"
+        ]
+      },
+      "alternateTitles": [
+        {
+          "title": "現世利益を求めるものへ"
+        }
+      ],
+      "attributions": [
+        {
+          "user": {
+            "name": "boatOB"
+          },
+          "type": "AUTHOR"
+        },
+        {
+          "user": {
+            "name": "kainndo"
+          },
+          "type": "REWRITE"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    }
+  },
+  "attributions": {
+    "scp-287-jp": [
+      {
+        "type": "author",
+        "name": "boatOB",
+        "date": null
+      },
+      {
+        "type": "rewrite",
+        "name": "kainndo",
+        "date": "2016-08-27"
+      }
+    ]
+  }
+}

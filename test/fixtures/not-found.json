@@ -1,0 +1,36 @@
+{
+  "input": "authorssearch-no-such-page",
+  "crom": {
+    "http://scp-jp.wikidot.com/authorssearch-no-such-page": {
+      "url": "http://scp-jp.wikidot.com/authorssearch-no-such-page",
+      "wikidotInfo": null,
+      "alternateTitles": [],
+      "attributions": [],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    },
+    "http://scp-jp.wikidot.com/old:authorssearch-no-such-page": {
+      "url": "http://scp-jp.wikidot.com/old:authorssearch-no-such-page",
+      "wikidotInfo": null,
+      "alternateTitles": [],
+      "attributions": [],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    },
+    "http://scp-jp.wikidot.com/deleted:authorssearch-no-such-page": {
+      "url": "http://scp-jp.wikidot.com/deleted:authorssearch-no-such-page",
+      "wikidotInfo": null,
+      "alternateTitles": [],
+      "attributions": [],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    }
+  },
+  "attributions": {}
+}

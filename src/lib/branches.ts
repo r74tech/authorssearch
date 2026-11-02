@@ -1,0 +1,25 @@
+export const DEFAULT_WIKI = "https://scp-jp.wikidot.com/";
+
+export const scpBranches: Record<string, string> = {
+  cn: "https://scp-wiki-cn.wikidot.com/",
+  cs: "https://scp-cs.wikidot.com/",
+  en: "https://scp-wiki.wikidot.com/",
+  fr: "https://fondationscp.wikidot.com/",
+  de: "https://scp-wiki-de.wikidot.com/",
+  int: "https://scp-int.wikidot.com/",
+  it: "https://fondazionescp.wikidot.com/",
+  jp: "https://scp-jp.wikidot.com/",
+  ko: "https://scpko.wikidot.com/",
+  pl: "https://scp-pl.wikidot.com/",
+  pt: "https://scp-pt-br.wikidot.com/",
+  ru: "https://scp-ru.wikidot.com/",
+  es: "https://lafundacionscp.wikidot.com/",
+  th: "https://scp-th.wikidot.com/",
+  ua: "https://scp-ukrainian.wikidot.com/",
+  zh: "https://scp-zh-tr.wikidot.com/",
+  vn: "https://scp-vn.wikidot.com/",
+  el: "https://scp-el.wikidot.com/",
+  id: "https://scp-id.wikidot.com/",
+  nd: "https://scp-nd.wikidot.com/",
+  tr: "https://scp-tr.wikidot.com/",
+};

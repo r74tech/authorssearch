@@ -1,0 +1,234 @@
+{
+  "input": "277interview",
+  "crom": {
+    "http://scp-jp.wikidot.com/277interview": {
+      "url": "http://scp-jp.wikidot.com/277interview",
+      "wikidotInfo": {
+        "title": "インタビュー 277-A",
+        "createdAt": "2015-10-10T08:50:58.000Z",
+        "source": "",
+        "tags": [
+          "en",
+          "インタビュー",
+          "補足"
+        ]
+      },
+      "alternateTitles": [],
+      "attributions": [
+        {
+          "user": {
+            "name": "訳者不明"
+          },
+          "type": "AUTHOR"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": {
+        "url": "http://scp-wiki.wikidot.com/277interview",
+        "wikidotInfo": {
+          "title": "Interview 277-A",
+          "createdAt": "2011-01-01T21:48:04.000Z"
+        },
+        "alternateTitles": [],
+        "attributions": [
+          {
+            "user": {
+              "name": "Mimi_42"
+            },
+            "type": "SUBMITTER"
+          }
+        ],
+        "adultContentPage": null,
+        "adultSplashPage": null,
+        "translations": [
+          {
+            "url": "http://scp-ru.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "Интервью 277-А",
+              "createdAt": "2011-08-12T21:20:02.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Gene R"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scpfoundation.net/277interview",
+            "wikidotInfo": null,
+            "alternateTitles": [],
+            "attributions": [],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scpko.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "면담 277-A",
+              "createdAt": "2013-03-12T03:49:40.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "kimnokcha"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki-cn.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "采访记录 277-A",
+              "createdAt": "2014-02-11T13:02:47.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "卜尸舟亢"
+                },
+                "type": "TRANSLATOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-jp.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "インタビュー 277-A",
+              "createdAt": "2015-10-10T08:50:58.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "訳者不明"
+                },
+                "type": "AUTHOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://fondationscp.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "Entretien 277-A",
+              "createdAt": "2016-12-09T09:53:17.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "DrJohannes"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://fondazionescp.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "Intervista 277-A",
+              "createdAt": "2017-03-19T14:47:57.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "DrHavok"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://lafundacionscp.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "Entrevista 277 A",
+              "createdAt": "2018-01-01T18:52:42.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "saugonzo"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki-de.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "Interview 277-A",
+              "createdAt": "2020-03-02T13:09:29.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Dr Alice"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-pt-br.wikidot.com/277interview",
+            "wikidotInfo": {
+              "title": "Entrevista 277-A",
+              "createdAt": "2020-12-13T09:54:01.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "L200"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          }
+        ]
+      }
+    }
+  },
+  "attributions": {
+    "277interview": [
+      {
+        "type": "author",
+        "name": "訳者不明",
+        "date": null
+      },
+      {
+        "type": "transferer",
+        "name": "gnmaee",
+        "date": null
+      }
+    ]
+  }
+}

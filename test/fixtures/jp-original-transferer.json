@@ -1,0 +1,76 @@
+{
+  "input": "b-bone-s-proposal",
+  "crom": {
+    "http://scp-jp.wikidot.com/b-bone-s-proposal": {
+      "url": "http://scp-jp.wikidot.com/b-bone-s-proposal",
+      "wikidotInfo": {
+        "title": "broken_boneの提言",
+        "createdAt": "2018-08-04T14:14:52.000Z",
+        "source": "[[include credit:start]]\n[[include credit:otherwise]]\n[[include credit:end]]",
+        "tags": [
+          "001提言",
+          "jp",
+          "safe",
+          "scp",
+          "メタ",
+          "文書",
+          "未収容"
+        ]
+      },
+      "alternateTitles": [
+        {
+          "title": "ししまいっ！"
+        }
+      ],
+      "attributions": [
+        {
+          "user": {
+            "name": "broken_bone"
+          },
+          "type": "AUTHOR"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [
+        {
+          "url": "http://scpko.wikidot.com/b-bone-s-proposal",
+          "wikidotInfo": {
+            "title": "브로큰 본의 제안",
+            "createdAt": "2015-12-28T03:59:31.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "네자매!"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Curiously"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        }
+      ],
+      "translationOf": null
+    }
+  },
+  "attributions": {
+    "b-bone-s-proposal": [
+      {
+        "type": "author",
+        "name": "broken_bone",
+        "date": "2013-12-22"
+      },
+      {
+        "type": "transferer",
+        "name": "jet0620",
+        "date": null
+      }
+    ]
+  }
+}

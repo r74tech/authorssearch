@@ -1,0 +1,440 @@
+{
+  "input": "https://scp-wiki.wikidot.com/scp-173",
+  "crom": {
+    "http://scp-wiki.wikidot.com/scp-173": {
+      "url": "http://scp-wiki.wikidot.com/scp-173",
+      "wikidotInfo": {
+        "title": "SCP-173",
+        "createdAt": "2008-07-25T20:49:21.000Z",
+        "source": "",
+        "tags": [
+          "autonomous",
+          "ectoentropic",
+          "euclid",
+          "featured",
+          "horror",
+          "hostile",
+          "murder-monster",
+          "mystery",
+          "observational",
+          "scp",
+          "sculpture",
+          "the-sculpture",
+          "_licensebox",
+          "crom:series-1"
+        ]
+      },
+      "alternateTitles": [
+        {
+          "title": "The Sculpture - The Original"
+        }
+      ],
+      "attributions": [
+        {
+          "user": {
+            "name": "Moto42"
+          },
+          "type": "AUTHOR"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [
+        {
+          "url": "http://scp-ru.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173 - Скульптура",
+            "createdAt": "2010-06-27T17:04:52.000Z"
+          },
+          "alternateTitles": [],
+          "attributions": [
+            {
+              "user": {
+                "name": "scp-ru"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scpfoundation.net/scp-173",
+          "wikidotInfo": null,
+          "alternateTitles": [],
+          "attributions": [],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://fondationscp.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2012-06-12T17:58:13.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "La Statue - L'original"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "DrMarcus"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scpko.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2012-11-28T18:19:33.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "조각상 - 오리지널"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Dr Devan"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-th.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2013-04-16T03:02:54.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "ประติมากรรมสุดหลอน - ต้นตำรับ"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "DrSSS"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://lafundacionscp.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2013-06-03T21:08:27.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "La Escultura - El Original"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Mulnero"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-jp.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2013-08-29T01:12:04.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "彫刻 - オリジナル"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Dr Devan"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://fondazionescp.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2013-11-08T21:29:44.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "La Scultura - L'originale"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Dr Pisy"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-pl.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2014-05-09T15:16:56.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "Rzeźba — Oryginał"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "(user deleted)"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-wiki-cn.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2014-11-29T02:12:06.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "雕像 - 最初之作"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "佚名"
+              },
+              "type": "TRANSLATOR"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-pt-br.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2015-09-14T22:55:47.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "A Escultura - O Original"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Lucas667"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-wiki-de.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2016-04-06T16:37:17.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "Die Skulptur – Das Original"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Dr_Grom"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-ukrainian.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173 - Скульптура",
+            "createdAt": "2016-11-24T20:10:50.000Z"
+          },
+          "alternateTitles": [],
+          "attributions": [
+            {
+              "user": {
+                "name": "murzei_chaos"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-cs.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2018-04-08T13:56:27.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "Socha - Originál"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "HawkeyeVole"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-el.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2019-01-24T22:53:05.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "Το Γλυπτό - Το Πρωτότυπο"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Dr_Sack"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-zh-tr.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173 - 塑像 - 最初的作品",
+            "createdAt": "2019-03-19T09:59:15.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "塑像 - 最初的作品"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "Semibreve"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-id.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2020-11-01T03:37:20.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "Patung - Orisinal"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "nahyesq"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-vn.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2022-04-02T15:40:29.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "Tượng Điêu Khắc - Nguyên Bản"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "KirQ"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-int.wikidot.com/scp-173",
+          "wikidotInfo": {
+            "title": "SCP-173",
+            "createdAt": "2025-04-14T10:52:05.000Z"
+          },
+          "alternateTitles": [],
+          "attributions": [
+            {
+              "user": {
+                "name": "AForeignFemboy"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        }
+      ],
+      "translationOf": null
+    }
+  },
+  "attributions": {}
+}

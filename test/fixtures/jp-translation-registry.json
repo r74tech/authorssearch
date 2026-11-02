@@ -1,0 +1,402 @@
+{
+  "input": "scp-321",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-321": {
+      "url": "http://scp-jp.wikidot.com/scp-321",
+      "wikidotInfo": {
+        "title": "スタッフによるプレースホルダ",
+        "createdAt": "2026-06-06T07:53:33.000Z",
+        "source": "[[include credit:start |mode=no-rate]]\n[[include credit:end]]",
+        "tags": [
+          "en",
+          "リダイレクト",
+          "管理"
+        ]
+      },
+      "alternateTitles": [
+        {
+          "title": "N/A"
+        }
+      ],
+      "attributions": [
+        {
+          "user": {
+            "name": "訳者不明"
+          },
+          "type": "AUTHOR"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": {
+        "url": "http://scp-ru.wikidot.com/scp-321",
+        "wikidotInfo": {
+          "title": "SCP-321 - Дитя человеческое",
+          "createdAt": "2011-03-28T17:10:37.000Z"
+        },
+        "alternateTitles": [],
+        "attributions": [
+          {
+            "user": {
+              "name": "Ailinn"
+            },
+            "type": "SUBMITTER"
+          }
+        ],
+        "adultContentPage": null,
+        "adultSplashPage": null,
+        "translations": [
+          {
+            "url": "http://scpfoundation.net/scp-321",
+            "wikidotInfo": null,
+            "alternateTitles": [],
+            "attributions": [],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scpko.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2013-04-04T03:09:32.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "사람의 아이"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "O-Road"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-th.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2013-05-09T02:08:55.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "ลูกของมนุษย์"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "DrSSS"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://lafundacionscp.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2013-11-02T17:01:33.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Hijo del Hombre"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "(user deleted)"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-pl.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2014-06-27T20:29:46.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Ludzkie dziecko"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Sharha"
+                },
+                "type": "AUTHOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki-cn.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2016-01-10T09:32:44.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "人之子"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "milk2015"
+                },
+                "type": "TRANSLATOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://fondationscp.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2016-11-24T10:30:12.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Enfant de l'homme"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "DrJohannes"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-cs.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2019-01-18T15:10:41.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Dítě muže"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Utylike"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-ukrainian.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321 - Дитина людини",
+              "createdAt": "2019-02-01T07:44:20.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "murzei_chaos"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-zh-tr.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321 - 人之子",
+              "createdAt": "2019-12-01T13:53:35.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "人之子"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Danza"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://fondazionescp.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2020-05-06T06:36:37.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Figlia dell'Uomo"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "existence_null_01030"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-vn.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2020-11-11T15:32:31.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "THUỘC QUYỀN QUẢN LÝ NHÂN VIÊN"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "SCPFoundationVietnam"
+                },
+                "type": "AUTHOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-id.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2021-04-01T11:07:00.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Anak Manusia"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Machiavellian"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "STAFF PLACEHOLDER",
+              "createdAt": "2026-03-03T20:18:47.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "N/A"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Staff"
+                },
+                "type": "AUTHOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-jp.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "スタッフによるプレースホルダ",
+              "createdAt": "2026-06-06T07:53:33.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "N/A"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "訳者不明"
+                },
+                "type": "AUTHOR"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki-de.wikidot.com/scp-321",
+            "wikidotInfo": {
+              "title": "SCP-321",
+              "createdAt": "2026-08-09T15:58:30.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Menschenskind"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Dr_Kuttelfisch"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          }
+        ]
+      }
+    }
+  },
+  "attributions": {
+    "scp-321": [
+      {
+        "type": "author",
+        "name": "訳者不明",
+        "date": null
+      },
+      {
+        "type": "transferer",
+        "name": "m0ch12uk1",
+        "date": null
+      }
+    ]
+  }
+}

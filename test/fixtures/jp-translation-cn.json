@@ -1,0 +1,103 @@
+{
+  "input": "scp-cn-4444",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-cn-4444": {
+      "url": "http://scp-jp.wikidot.com/scp-cn-4444",
+      "wikidotInfo": {
+        "title": "SCP-CN-4444",
+        "createdAt": "2026-09-28T10:22:38.000Z",
+        "source": "",
+        "tags": [
+          "cn",
+          "cn4000",
+          "neutralized",
+          "scp",
+          "セントラル・キッチン",
+          "共著",
+          "注目記事",
+          "現実改変",
+          "食物"
+        ]
+      },
+      "alternateTitles": [],
+      "attributions": [
+        {
+          "user": {
+            "name": "fish_paste_slice"
+          },
+          "type": "SUBMITTER"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": {
+        "url": "http://scp-wiki-cn.wikidot.com/scp-cn-4444",
+        "wikidotInfo": {
+          "title": "SCP-CN-4444",
+          "createdAt": "2025-11-30T16:08:42.000Z"
+        },
+        "alternateTitles": [
+          {
+            "title": "今天吃什么？"
+          }
+        ],
+        "attributions": [
+          {
+            "user": {
+              "name": "breaddddd"
+            },
+            "type": "AUTHOR"
+          },
+          {
+            "user": {
+              "name": "ColorlessL"
+            },
+            "type": "AUTHOR"
+          }
+        ],
+        "adultContentPage": null,
+        "adultSplashPage": null,
+        "translations": [
+          {
+            "url": "http://scp-jp.wikidot.com/scp-cn-4444",
+            "wikidotInfo": {
+              "title": "SCP-CN-4444",
+              "createdAt": "2026-09-28T10:22:38.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "fish_paste_slice"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scpko.wikidot.com/scp-cn-4444",
+            "wikidotInfo": {
+              "title": "SCP-CN-4444",
+              "createdAt": "2026-10-09T12:13:26.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Langston77"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          }
+        ]
+      }
+    }
+  },
+  "attributions": {}
+}

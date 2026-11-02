@@ -1,0 +1,366 @@
+{
+  "input": "scp-4000",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-4000": {
+      "url": "http://scp-jp.wikidot.com/scp-4000",
+      "wikidotInfo": {
+        "title": "SCP-4000",
+        "createdAt": "2018-07-22T04:38:42.000Z",
+        "source": "",
+        "tags": [
+          "en",
+          "tale",
+          "リダイレクト",
+          "合作"
+        ]
+      },
+      "alternateTitles": [
+        {
+          "title": "禁忌"
+        }
+      ],
+      "attributions": [
+        {
+          "user": {
+            "name": "Fennecist"
+          },
+          "type": "SUBMITTER"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": {
+        "url": "http://scp-wiki.wikidot.com/scp-4000",
+        "wikidotInfo": {
+          "title": "SCP-4000",
+          "createdAt": "2022-10-16T00:49:56.000Z"
+        },
+        "alternateTitles": [
+          {
+            "title": "Taboo"
+          }
+        ],
+        "attributions": [
+          {
+            "user": {
+              "name": "Captain Kirby"
+            },
+            "type": "AUTHOR"
+          },
+          {
+            "user": {
+              "name": "PeppersGhost"
+            },
+            "type": "AUTHOR"
+          }
+        ],
+        "adultContentPage": null,
+        "adultSplashPage": null,
+        "translations": [
+          {
+            "url": "http://scp-jp.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2018-07-22T04:38:42.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "禁忌"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Fennecist"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki-cn.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2018-08-15T04:44:37.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "禁忌之地"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "M Element"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scpko.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2018-08-15T08:00:24.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "금기"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Elfen_mathL"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://lafundacionscp.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2018-08-15T14:45:50.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "(user deleted)"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-ru.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2018-08-21T16:54:00.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Gene R"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scpfoundation.net/scp-4000",
+            "wikidotInfo": null,
+            "alternateTitles": [],
+            "attributions": [],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-pt-br.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2019-04-25T15:12:06.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Taboo"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Silvacrest"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-wiki-de.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2020-01-23T16:39:47.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Tabu"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Dr Alice"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://fondationscp.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2020-02-04T21:12:14.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Dr Lekter"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-zh-tr.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2020-09-23T13:03:20.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "禁忌之地"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Viken-K"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-th.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2020-12-15T03:37:50.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "ต้องห้าม"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Finoff"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-cs.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2021-01-08T19:45:25.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Tabu"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "H3G1"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-ukrainian.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2021-03-01T08:30:01.000Z"
+            },
+            "alternateTitles": [],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Uther_McClellan"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-pl.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2021-07-20T20:20:25.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Tabu"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "Jasiu06"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          },
+          {
+            "url": "http://scp-vn.wikidot.com/scp-4000",
+            "wikidotInfo": {
+              "title": "SCP-4000",
+              "createdAt": "2022-01-15T02:53:29.000Z"
+            },
+            "alternateTitles": [
+              {
+                "title": "Cấm kỵ"
+              }
+            ],
+            "attributions": [
+              {
+                "user": {
+                  "name": "KH Nam"
+                },
+                "type": "SUBMITTER"
+              }
+            ],
+            "adultContentPage": null,
+            "adultSplashPage": null
+          }
+        ]
+      }
+    }
+  },
+  "attributions": {}
+}

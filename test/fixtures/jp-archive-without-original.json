@@ -1,0 +1,48 @@
+{
+  "input": "scp-126-vn",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-126-vn": {
+      "url": "http://scp-jp.wikidot.com/scp-126-vn",
+      "wikidotInfo": null,
+      "alternateTitles": [],
+      "attributions": [],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    },
+    "http://scp-jp.wikidot.com/old:scp-126-vn": {
+      "url": "http://scp-jp.wikidot.com/old:scp-126-vn",
+      "wikidotInfo": {
+        "title": "SCP-126-VN（記録用:Sổ Tay Tin Vịt / アヒルのデマ手帳）",
+        "createdAt": "2026-10-24T20:18:45.000Z",
+        "source": "[[include :scp-jp:credit:start]]\n[[include :scp-jp:credit:cc4]]\n[[include :scp-jp:credit:end]]",
+        "tags": [
+          "safe",
+          "scp",
+          "vn",
+          "元記事削除",
+          "共著",
+          "動物",
+          "文書",
+          "群れ",
+          "鳥類"
+        ]
+      },
+      "alternateTitles": [],
+      "attributions": [
+        {
+          "user": {
+            "name": "Kevin Nguyen_JP"
+          },
+          "type": "SUBMITTER"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [],
+      "translationOf": null
+    }
+  },
+  "attributions": {}
+}

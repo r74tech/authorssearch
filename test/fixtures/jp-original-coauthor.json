@@ -1,0 +1,142 @@
+{
+  "input": "scp-2000-jp",
+  "crom": {
+    "http://scp-jp.wikidot.com/scp-2000-jp": {
+      "url": "http://scp-jp.wikidot.com/scp-2000-jp",
+      "wikidotInfo": {
+        "title": "SCP-2000-JP",
+        "createdAt": "2020-01-31T14:53:07.000Z",
+        "source": "[[include credit:otherwise]]\n[[include credit:end]]",
+        "tags": [
+          "2000jp",
+          "jp",
+          "scp",
+          "thaumiel",
+          "イヌ",
+          "クレフ博士",
+          "コンピュータ",
+          "メタ",
+          "共著",
+          "動物",
+          "機械仕掛けの神",
+          "知性"
+        ]
+      },
+      "alternateTitles": [
+        {
+          "title": "伝書使"
+        }
+      ],
+      "attributions": [
+        {
+          "user": {
+            "name": "FeS_ryuukatetu"
+          },
+          "type": "AUTHOR"
+        },
+        {
+          "user": {
+            "name": "furabbit"
+          },
+          "type": "AUTHOR"
+        },
+        {
+          "user": {
+            "name": "WagnasCousin"
+          },
+          "type": "AUTHOR"
+        }
+      ],
+      "adultContentPage": null,
+      "adultSplashPage": null,
+      "translations": [
+        {
+          "url": "http://scp-wiki-cn.wikidot.com/scp-2000-jp",
+          "wikidotInfo": {
+            "title": "SCP-2000-JP",
+            "createdAt": "2020-02-01T16:57:34.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "信使"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "BenjaminChong"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scpko.wikidot.com/scp-2000-jp",
+          "wikidotInfo": {
+            "title": "SCP-2000-JP",
+            "createdAt": "2022-03-27T14:48:19.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "편지개"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "XCninety"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        },
+        {
+          "url": "http://scp-zh-tr.wikidot.com/scp-2000-jp",
+          "wikidotInfo": {
+            "title": "SCP-2000-JP - 信使",
+            "createdAt": "2025-10-06T14:28:12.000Z"
+          },
+          "alternateTitles": [
+            {
+              "title": "信使"
+            }
+          ],
+          "attributions": [
+            {
+              "user": {
+                "name": "KnifeSalmon"
+              },
+              "type": "SUBMITTER"
+            }
+          ],
+          "adultContentPage": null,
+          "adultSplashPage": null
+        }
+      ],
+      "translationOf": null
+    }
+  },
+  "attributions": {
+    "scp-2000-jp": [
+      {
+        "type": "author",
+        "name": "FeS_ryuukatetu",
+        "date": null
+      },
+      {
+        "type": "author",
+        "name": "furabbit",
+        "date": null
+      },
+      {
+        "type": "author",
+        "name": "WagnasCousin",
+        "date": null
+      }
+    ]
+  }
+}
